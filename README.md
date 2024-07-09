@@ -1,2 +1,2 @@
 # datamenu
-homepage for datamenu portfolio and profile
+Source code for thedatamenu.com site: portfolio and profile
